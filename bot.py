@@ -36,4 +36,4 @@ bot.load_extension(f'cogs.connectfour')
 
 
 
-bot.run('ODQ1NzI1NzA0OTgwNzkxMzM2.YKlJcA.X_xfnU-cfX-zVJwTJlsQeTT33h0')
+bot.run(TOKEN)
